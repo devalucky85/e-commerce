@@ -48,8 +48,8 @@ const ContactPage = () => {
             <div className="address">
               <h3>Store in India</h3>
               <p>
-                A-791, A-791, Bandra Reclamation Rd, Mumbai
-                <br /> Maharashtra
+                58 nimchand moiter street kolkata 700035
+                <br /> west bangal, India 700035
               </p>
               <p>
                 contact@dummymail.com
